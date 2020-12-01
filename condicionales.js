@@ -1,7 +1,7 @@
 'use strict'
 
 //Condicional if 
-//Una estructura de control que nos permite comparar algo 
+//Una estructura de control que nos permite comparar 
 
 
 // var edad1 = 30;
@@ -23,11 +23,11 @@ if (edad >= 18){
     console.log(nombre + " tiene " + edad + " años, es mayor de edad.");
 
     if(edad == 33){
-        console.log("Todavía eres millenial");
+        console.log("Todavía sos millenial");
     }else if (edad >= 70){
         console.log("Sos de la tercera edad");
     }else {
-        console.log("Ya no eres millenial");
+        console.log("Ya no sos millenial");
     }
 }else {
     console.log(nombre + " es menor de edad.");
